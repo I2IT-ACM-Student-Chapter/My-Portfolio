@@ -10,6 +10,13 @@ ACM aka Association for Computer Machinery is the world's largest scientific and
 
 ---
 
+## Connect with us:
+
+- [Instagram](https://instagram.com/i2itacm)
+- [GitHub](https://github.com/I2IT-ACM-Student-Chapter/)
+
+---
+
 ![StreamImg](Stream.png)
 
 ## [Watch Stream Here](https://rb.gy/uigohf)
